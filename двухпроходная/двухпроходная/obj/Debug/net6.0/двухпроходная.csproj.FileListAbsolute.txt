@@ -1,0 +1,15 @@
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\bin\Debug\net6.0\двухпроходная.exe
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\bin\Debug\net6.0\двухпроходная.deps.json
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\bin\Debug\net6.0\двухпроходная.runtimeconfig.json
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\bin\Debug\net6.0\двухпроходная.dll
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\bin\Debug\net6.0\двухпроходная.pdb
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\obj\Debug\net6.0\двухпроходная.csproj.AssemblyReference.cache
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\obj\Debug\net6.0\двухпроходная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\obj\Debug\net6.0\двухпроходная.AssemblyInfoInputs.cache
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\obj\Debug\net6.0\двухпроходная.AssemblyInfo.cs
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\obj\Debug\net6.0\двухпроходная.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\obj\Debug\net6.0\двухпроходная.dll
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\obj\Debug\net6.0\refint\двухпроходная.dll
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\obj\Debug\net6.0\двухпроходная.pdb
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\obj\Debug\net6.0\двухпроходная.genruntimeconfig.cache
+C:\Users\ilruz\OneDrive\Рабочий стол\Разраб ПМ\двухпроходная\двухпроходная\obj\Debug\net6.0\ref\двухпроходная.dll
